@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "63838754305",
+    "project_id": "staffapp-86038",
+    "storage_bucket": "staffapp-86038.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63838754305:android:ac2673df34cc0644ae5200",
+        "android_client_info": {
+          "package_name": "com.example.mystaffapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63838754305-ugir4qau69c4prnp0virlns45kno81r9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1uPkHR5aZUh-B5Qm9CsGTVkdSL-ic1xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63838754305-ugir4qau69c4prnp0virlns45kno81r9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "63838754305-t9ms2aqp5e41m2iphis43cm0l0vbap5d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.topNews"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63838754305:android:049713da541bd32aae5200",
+        "android_client_info": {
+          "package_name": "com.example.top_news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63838754305-gk3605rg6ijt9lbgul0mo2j7kad5nvvq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.top_news",
+            "certificate_hash": "e712e7ee68075bb4ad5c96a62b86086973901be9"
+          }
+        },
+        {
+          "client_id": "63838754305-ugir4qau69c4prnp0virlns45kno81r9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1uPkHR5aZUh-B5Qm9CsGTVkdSL-ic1xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63838754305-ugir4qau69c4prnp0virlns45kno81r9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "63838754305-t9ms2aqp5e41m2iphis43cm0l0vbap5d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.topNews"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
